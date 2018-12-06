@@ -31,8 +31,8 @@ Few large-scale data sets are available.
 
 # Research question
 
- - **\textcolor[rgb]{0.0,0.0,1.0}{How does access to public transport
-   affect women?}**
+ - **\textcolor[rgb]{0.0,0.0,1.0}{Does access to public transport
+   affect women different than men?}**
 
 # Mobility
 
@@ -44,10 +44,6 @@ Few large-scale data sets are available.
  \end{equation}
 
    over each individual's $i,j$ set of all visited places $L$.
-
-# Santiago de Chile
-
-![Santiago's comunas and ratio female-males/population per block](womencomuna_t.jpg){height=280px}
 
 # Place
 
@@ -77,6 +73,11 @@ In our case, each $c$ has been enriched with:
 	 \textcolor[rgb]{0.0,0.0,1.0}{\texttt{\url{https://bit.ly/2Bv0NTI}}}, in Spanish :(},
  - $u$, the number of lines owned by $n_a$.
  - $c_a$, $c_b$ whether "prepaid" or "contract"
+
+# Santiago de Chile
+
+![Santiago's comunas and ratio female-males/population per block](womencomuna_t.jpg){height=280px}
+
 
 # Data: GSE (socio-econ)
 
@@ -194,3 +195,26 @@ The **\textcolor[rgb]{1.0,0.0,0.0}{uncommon}** question is the
 following:
 
 - what are the social costs of **not** doing these studies?
+
+# Representativeness (comuna level)
+
+![](popcdrcorr.jpg)\
+
+
+Population distribution, census vs CDRs is pearson .94
+
+# Representativeness (comuna level)
+
+![](genderdissagcorr.jpg)\
+
+
+Gender-disaggregated population distribution, census vs CDRs is
+pearson .85
+
+
+# Representativeness (comuna level)
+
+![](gsecensuscorr.jpg)\
+
+
+GSE metadata vs census data, census vs CDRs is pearson .88
