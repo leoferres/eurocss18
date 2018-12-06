@@ -1,0 +1,1 @@
+pandoc -t beamer eurocss.md -o eurocss.pdf
