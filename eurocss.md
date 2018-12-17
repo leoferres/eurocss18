@@ -27,12 +27,13 @@ So, let's **assume** that
 - Women "move more" (@Psylla2017),
 - They "move about the same" (in terms of predictability, @Song2010)
 
-Few large-scale data sets are available.
+Few large-scale dat sets are available.
 
 # Research question
 
- - **\textcolor[rgb]{0.0,0.0,1.0}{Does access to public transport
-   affect women different than men?}**
+ - **\textcolor[rgb]{0.0,0.0,1.0}{do we observe similar mobility
+   patterns across gender in association to the presence/lack of
+   public transport?}**
 
 # Mobility
 
@@ -136,7 +137,8 @@ height=260px }
 # Conclusions
 
  - Mobility is (strongly) gendered,
- - public transport accessibility affect women different than men,
+ - there are gender differences in mobility patterns when it comes to
+   lack of public transportation,
  - we need a smarter way to think about mobility, particularly when it
    comes to gender, and
 
